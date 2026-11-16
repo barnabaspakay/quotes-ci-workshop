@@ -12,6 +12,8 @@ jobs:
       - uses: actions/checkout@v7
       - run: echo "Hello from $(hostname)"
       - run: pwd && ls -A
+      - run: node --version
       - run: npm ci
       - run: npm run lint
       - run: npm test
+      

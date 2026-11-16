@@ -1,4 +1,4 @@
-const MAX_LENGTH = 80;
+var MAX_LENGTH = 80;
 
 const SEED = [
   "It works on my machine.",

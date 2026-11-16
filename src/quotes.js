@@ -4,6 +4,7 @@ const SEED = [
   "It works on my machine.",
   "Have you tried turning it off and on again?",
   "There is no cloud, just someone else's computer.",
+  "I have not failed. I've just found 10,000 ways that won't work."
 ];
 
 function validateQuote(text) {

@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run echo "Hello from ${hostname}"
-      - run pwd && ls -la
+      - run pwd && ls -A

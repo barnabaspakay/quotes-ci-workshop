@@ -4,6 +4,8 @@ const SEED = [
   "It works on my machine.",
   "Have you tried turning it off and on again?",
   "There is no cloud, just someone else's computer.",
+  "I have not failed. I've just found 10,000 ways that won't work.",
+  "When people look under the hood... we want them to perceive that professionals have been at work. If instead they see a scrambled mass of code that looks like it was written by a bevy of drunken sailors,then they are likely to conclude that the same inattention to detail pervades every other aspect of the project."
 ];
 
 function validateQuote(text) {

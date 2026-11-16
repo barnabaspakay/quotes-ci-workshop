@@ -13,5 +13,5 @@ jobs:
       - run: echo "Hello from $(hostname)"
       - run: pwd && ls -A
       - run: npm ci
-      - run: npm test
       - run: npm run lint
+      - run: npm test
